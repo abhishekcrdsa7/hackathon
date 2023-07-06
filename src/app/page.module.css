@@ -1,0 +1,90 @@
+.main {
+  background-color: #fff;
+}
+
+.dellTechLogo {
+  color: #0076ce;
+}
+
+.navbarInput {
+  margin-left: 12%;
+  width: 600px;
+  border: 1px solid #b6b6b6;
+  padding: 7px 7px 7px 20px;
+  font-size: 14px;
+}
+
+.navbarInput:focus {
+  outline-color: #0076ce;
+}
+
+.navbarOptions {
+  display: flex;
+  justify-content: space-around;
+  font-size: 14px;
+}
+
+.navbarOption {
+  margin: 0 10px 0 10px;
+}
+
+.actionBar {
+  padding: 1% 450px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.icons {
+  font-size: 30px;
+}
+
+.actionBarItem {
+  text-align: center;
+}
+
+.chatbotContainer {
+  background-image: url("https://i.dell.com/is/image/DellContent/content/dam/ss2/page-specific/dell-homepage/en/bfij-csb-dell-lifestyle-latitude-7430nt-2400x696-png.png?fmt=png&op_usm=1.75,0.3,2,0&resMode=sharp2&size=1920,557&hei=557&wid=1920");
+  padding: 2% 5%;
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 30vw;
+}
+
+
+.chatbotContainerEmphasisText {
+  color: #0076ce;
+}
+
+.chatbotHeading {
+  font-size: 2em;
+}
+
+.exploreText {
+  text-align: center;
+  font-size: 2em;
+  padding: 2% 0 1% 0;
+}
+
+.customNav {
+  border-bottom: 2px solid #d2d2d2;
+}
+
+.exploreImages {
+  display: flex;
+  text-align: center;
+  padding-bottom: 2%;
+}
+
+.exploreImage {
+  text-align: center;
+  padding: 1%;
+}
+
+.exploreImage > img {
+  width: 100%;
+}
+
+.impText {
+  text-align: center;
+}
